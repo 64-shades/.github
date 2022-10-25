@@ -10,4 +10,4 @@ We are running our chess team on `lichess.org` at [64 Shades](https://lichess.or
 
 Sign up to `lichess.org` and then hit the team URL to join :)
 
-And please join our small [Discord Server](discord.gg/xKQvGEFgbD) !!
+And please join our small [Discord Server](https://discord.gg/xKQvGEFgbD) !!
