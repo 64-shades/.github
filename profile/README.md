@@ -9,5 +9,3 @@ We have created `64 Shades` to spread the love of the world game of chess.
 We are running our chess team on `lichess.org` at [64 Shades](https://lichess.org/team/64-shades).
 
 Sign up to `lichess.org` and then hit the team URL to join :)
-
-And please join our small [Discord Server](https://discord.gg/xKQvGEFgbD) !!
