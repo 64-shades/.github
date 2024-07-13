@@ -1,6 +1,6 @@
 # Welcome to The Official `64 Shades` World Chess Team 🚀🚀
 
-`64 Shades` is a team of cutting edge chess players that also love open source on GitHub.
+`64 Shades` is a team of cutting edge chess players that also love open-source on GitHub.
 
 We have created `64 Shades` to spread the love of the world game of chess.
 
