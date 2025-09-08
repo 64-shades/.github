@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <h1>Welcome to the Official <code>64 Shades</code> World Chess Team ♟️🚀</h1>
+  <h1>Welcome to the Official <code>64 Shades</code> World Chess Team and Games Club ♟️🚀</h1>
   <p>
-    <strong>64 Shades</strong> is a team of cutting-edge chess players who also love open-source on GitHub. <br>
-    We’re here to celebrate the global game of chess with a vibrant, tech-loving community.
+    <strong>64 Shades</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
+    We’re here to celebrate the global game of chess and board games, with a vibrant, tech-loving community.
   </p>
   <p>
     Join us on <a href="https://lichess.org/team/64-shades">lichess.org/team/64-shades</a> to play, grow, and contribute together.
@@ -47,7 +47,7 @@
   <p>
     Add a <code>⭐</code> to the <a href="https://github.com/64-shades/.github">repository</a> and you will be instantly invited to join the <code>64 Shades</code> GitHub Organization 🧑‍🚀 🚀
     <br />
-    Help us grow a community where chess meets code!    
+    Help us grow a community where chess and games meet code!    
   </p>
 </div>
 
