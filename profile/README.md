@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpeg" alt="Big futuristic chess game with a crowd" />
+  <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers" />
 </div>
 
 <div align="center">
