@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers" />
-</div>
-
-<div align="center">
   <h1>Welcome to the Official <code>64 Shades</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
   <p>
     <strong>64 Shades</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
@@ -58,4 +54,8 @@
   <p>
     See you on <a href="https://lichess.org/team/64-shades">lichess.org</a> – Let’s play some chess!
   </p>
+</div>
+
+<div align="center">
+  <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers" />
 </div>
