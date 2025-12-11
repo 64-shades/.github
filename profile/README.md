@@ -42,7 +42,7 @@
   <h2>Join Our Mission ⭐</h2>
   <p>
     Add a <code>⭐</code> to the <a href="https://github.com/64-shades/.github">repository</a> and you will be instantly invited to join the <code>64 Shades</code> GitHub Organization 🧑‍🚀 🚀
-    <br />
+    <br>
     Help us grow a community where chess and games meet code!    
   </p>
 </div>
@@ -57,5 +57,9 @@
 </div>
 
 <div align="center">
-  <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers" />
+  <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers">
+</div>
+
+<div align="center">
+  <img src="assets/breakfast-creek-hotel-seventh-event.jpg" alt="Setting up early at the Breakfast Creek Hotel at the seventh event">
 </div>
