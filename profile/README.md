@@ -2,7 +2,7 @@
   <h1>Welcome to the Official <code>64 Shades</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
   <p>
     <strong>64 Shades</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
-    We’re here to celebrate the global game of chess and board games, with a vibrant, tech-loving community.
+    We’re here to celebrate global games, with a vibrant, tech-loving community.
   </p>
   <p>
     Join us on <a href="https://lichess.org/team/64-shades">lichess.org/team/64-shades</a> to play, grow, and contribute together.
