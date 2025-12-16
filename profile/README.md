@@ -39,17 +39,6 @@
 ---
 
 <div align="center">
-  <h2>Join Our Mission ⭐</h2>
-  <p>
-    Add a <code>⭐</code> to the <a href="https://github.com/64-shades/.github">repository</a> and you will be instantly invited to join the <code>64 Shades</code> GitHub Organization 🧑‍🚀 🚀
-    <br>
-    Help us grow a community where chess and games meet code!    
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2>Thank You for Visiting 💙</h2>
   <p>
     See you on <a href="https://lichess.org/team/64-shades">lichess.org</a> – Let’s play some chess!
