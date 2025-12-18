@@ -48,9 +48,22 @@
 </div>
 
 <div align="center">
-  <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers">
+  <h2>3rd Event at the Breakfast Creek Hotel Beers in Play</h2>
+  <img src="assets/third-event-beers-in-play.jpg"
+    alt="Third event Beers In Play"
+    title="Third event Beers In Play">
 </div>
 
 <div align="center">
-  <img src="assets/breakfast-creek-hotel-seventh-event.jpg" alt="Setting up early at the Breakfast Creek Hotel at the seventh event">
+  <h2>7th Event at the Breakfast Creek Hotel setting up early</h2>
+  <img src="assets/breakfast-creek-hotel-seventh-event.jpg"
+    alt="Setting up early at the Breakfast Creek Hotel at the seventh event"
+    title="Setting up early at the Breakfast Creek Hotel at the seventh event">
+</div>
+
+<div align="center">
+  <h2>We Support The Big Issue</h2>
+    <a href="https://thebigissue.org.au">
+      <img src="assets/the-big-issue.jpg" alt="The Big Issue 40 Magazine Front Covers">
+    </a>
 </div>
