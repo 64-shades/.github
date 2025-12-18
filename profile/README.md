@@ -47,6 +47,8 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   <h2>3rd Event at the Breakfast Creek Hotel Beers in Play</h2>
   <img src="assets/third-event-beers-in-play.jpg"
