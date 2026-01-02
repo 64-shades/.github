@@ -1,0 +1,40 @@
+name: ⭐ Invite New User on Star
+
+on:
+  watch:
+    types: [started]
+
+jobs:
+  invite-user:
+    name: 🙋‍♂️ Invite New GitHub User
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v6
+
+      - name: 🐍 Set Up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: 🔄 Cache pip Dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('.github/workflows/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: 📦 Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f .github/workflows/requirements.txt ]; then
+            pip install -r .github/workflows/requirements.txt
+          fi
+
+      - name: 🤖 Run Auto-Invite Script
+        run: python .github/workflows/AutoInviteToOrgByStar.py
+        env:
+          MY_GITHUB_KEY: ${{ secrets.MY_GITHUB_KEY }}
+          COMMUNITY_TEAM_ID: ${{ secrets.COMMUNITY_TEAM_ID }}
