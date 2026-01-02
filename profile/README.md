@@ -42,6 +42,7 @@
 
 <div align="center">
   <h2>Thank You for Visiting 💙</h2>
+  <p>Add a ⭐ to <a href="https://github.com/64-shades/.github">this repository</a> to be auto invited to the 64 Shades GitHub Organization 💜</p>
   <p>
     See you on <a href="https://lichess.org/team/64-shades">lichess.org</a> – Let’s play some chess!
   </p>
